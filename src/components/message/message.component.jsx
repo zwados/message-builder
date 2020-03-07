@@ -17,8 +17,7 @@ let {candidateFirstName, interviewType, candidateRole, candidatePhone, interview
 <li>Time: {interviewTime}  – please allow  approx. {interviewDuration} </li>   
 <li>Position: {candidateRole} </li>   
 <li>Interviewers: {interviewerFirstName} {interviewerLastName}</li> 
-{(interviewType === 'f2f')}  
-<li>Location: {interviewLocation} </li>   
+{(interviewType === 'face to face') ? <li>Location: {interviewLocation} </li> : null } 
 </ul>
 
 <p>The manager will contact you on your telephone provided to us: {candidatePhone} – please make sure you are around your phone and have good signal connection.</p>

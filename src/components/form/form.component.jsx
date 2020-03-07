@@ -25,9 +25,9 @@ const Form = ({handleChange, handleSubmit, formValues}) => {
 
         <label>Interview type:</label>
         <select name='interviewType' onChange={handleChange}>
-            <option value="f2f">F2F</option>
+            <option value="face to face">Face to face</option>
             <option value="skype">Skype</option>
-            <option value="skypeVideo">Skype Video</option>
+            <option value="skype video">Skype Video</option>
             <option value="telephone">Telephone</option>
         </select>
 
@@ -43,7 +43,7 @@ const Form = ({handleChange, handleSubmit, formValues}) => {
         <input placeholder="Interview date" required type="date" name="interviewDate" onChange={handleChange} />
         <input placeholder="Interview time + timezone" type="text" name="interviewTime" onChange={handleChange} />
         <input placeholder="Duration" type="text" name="interviewDuration" onChange={handleChange} />
-        {(interviewType === 'f2f' ?
+        {(interviewType === 'face to face' ?
         <input placeholder="Location" type="text" name="interviewLocation" onChange={handleChange} /> :
         null
         )}
