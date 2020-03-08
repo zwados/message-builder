@@ -59,7 +59,7 @@ const Form = ({handleChange, handleSubmit, formValues}) => {
 
 
         
-        <input type="submit" value="Submit"/>
+        <input className="submit-btn" type="submit" value="Submit"/>
       </form>
      );
 }
