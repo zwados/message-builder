@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/message-builder/static/css/main.d7295bd3.chunk.css",
+    "main.css": "/message-builder/static/css/main.1654e071.chunk.css",
     "main.js": "/message-builder/static/js/main.17f5fa76.chunk.js",
     "main.js.map": "/message-builder/static/js/main.17f5fa76.chunk.js.map",
     "runtime-main.js": "/message-builder/static/js/runtime-main.59f51bd8.js",
@@ -8,9 +8,9 @@
     "static/js/2.5af9edfd.chunk.js": "/message-builder/static/js/2.5af9edfd.chunk.js",
     "static/js/2.5af9edfd.chunk.js.map": "/message-builder/static/js/2.5af9edfd.chunk.js.map",
     "index.html": "/message-builder/index.html",
-    "precache-manifest.af18c1de56555cee517f1885601b290c.js": "/message-builder/precache-manifest.af18c1de56555cee517f1885601b290c.js",
+    "precache-manifest.c3a9a60fa9ff659e7c68ecd345bc1c40.js": "/message-builder/precache-manifest.c3a9a60fa9ff659e7c68ecd345bc1c40.js",
     "service-worker.js": "/message-builder/service-worker.js",
-    "static/css/main.d7295bd3.chunk.css.map": "/message-builder/static/css/main.d7295bd3.chunk.css.map",
+    "static/css/main.1654e071.chunk.css.map": "/message-builder/static/css/main.1654e071.chunk.css.map",
     "static/js/2.5af9edfd.chunk.js.LICENSE.txt": "/message-builder/static/js/2.5af9edfd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/message-builder/static/media/bg.4091f351.jpg",
     "static/media/iqvia.jpg": "/message-builder/static/media/iqvia.9934596d.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.59f51bd8.js",
     "static/js/2.5af9edfd.chunk.js",
-    "static/css/main.d7295bd3.chunk.css",
+    "static/css/main.1654e071.chunk.css",
     "static/js/main.17f5fa76.chunk.js"
   ]
 }
