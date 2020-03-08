@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/message-builder/static/css/main.a688f37e.chunk.css",
-    "main.js": "/message-builder/static/js/main.ed5a1d14.chunk.js",
-    "main.js.map": "/message-builder/static/js/main.ed5a1d14.chunk.js.map",
+    "main.css": "/message-builder/static/css/main.ee2d365f.chunk.css",
+    "main.js": "/message-builder/static/js/main.17f5fa76.chunk.js",
+    "main.js.map": "/message-builder/static/js/main.17f5fa76.chunk.js.map",
     "runtime-main.js": "/message-builder/static/js/runtime-main.59f51bd8.js",
     "runtime-main.js.map": "/message-builder/static/js/runtime-main.59f51bd8.js.map",
     "static/js/2.5af9edfd.chunk.js": "/message-builder/static/js/2.5af9edfd.chunk.js",
     "static/js/2.5af9edfd.chunk.js.map": "/message-builder/static/js/2.5af9edfd.chunk.js.map",
     "index.html": "/message-builder/index.html",
-    "precache-manifest.f9f5a1ca5587a853b3f8feea505c391d.js": "/message-builder/precache-manifest.f9f5a1ca5587a853b3f8feea505c391d.js",
+    "precache-manifest.8c95d724f769482fd9afeb62867f3d0a.js": "/message-builder/precache-manifest.8c95d724f769482fd9afeb62867f3d0a.js",
     "service-worker.js": "/message-builder/service-worker.js",
-    "static/css/main.a688f37e.chunk.css.map": "/message-builder/static/css/main.a688f37e.chunk.css.map",
+    "static/css/main.ee2d365f.chunk.css.map": "/message-builder/static/css/main.ee2d365f.chunk.css.map",
     "static/js/2.5af9edfd.chunk.js.LICENSE.txt": "/message-builder/static/js/2.5af9edfd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/message-builder/static/media/bg.4091f351.jpg",
     "static/media/iqvia.jpg": "/message-builder/static/media/iqvia.9934596d.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.59f51bd8.js",
     "static/js/2.5af9edfd.chunk.js",
-    "static/css/main.a688f37e.chunk.css",
-    "static/js/main.ed5a1d14.chunk.js"
+    "static/css/main.ee2d365f.chunk.css",
+    "static/js/main.17f5fa76.chunk.js"
   ]
 }
